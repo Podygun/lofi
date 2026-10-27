@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/LofiRoom/Scenes/Splash.unity
+    guid: 4c7b1ff2dab4b1a76a7236014d46b305
+  - enabled: 1
+    path: Assets/LofiRoom/Scenes/StudentScenes/Room_Podyganova_Karina.unity
+    guid: ee62687e9dd32b04db622d4f470160b1
+  - enabled: 1
+    path: Assets/LofiRoom/Scenes/LofiRoom.unity
+    guid: 9df064b707f6bab90dd70d7d30db1dff
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0

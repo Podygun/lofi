@@ -1,0 +1,95 @@
+{
+  "title": "Тихий вечер — отдельные слои",
+  "generator": "Built-in ImageGen",
+  "pixelsPerUnit": 100,
+  "pivot": [
+    0.5,
+    0.5
+  ],
+  "lampSilhouetteIoU": 0.9885,
+  "assets": [
+    {
+      "file": "room_base.png",
+      "width": 1672,
+      "height": 941,
+      "mode": "RGB"
+    },
+    {
+      "file": "window_rain.png",
+      "width": 1024,
+      "height": 1536,
+      "mode": "RGBA",
+      "transparent_percent": 23.74,
+      "alpha_extrema": [
+        0,
+        254
+      ]
+    },
+    {
+      "file": "kitten_ginger.png",
+      "width": 1672,
+      "height": 941,
+      "mode": "RGBA",
+      "transparent_percent": 47.36,
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "kitten_cream.png",
+      "width": 1672,
+      "height": 941,
+      "mode": "RGBA",
+      "transparent_percent": 43.87,
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "file": "kitten_tabby.png",
+      "width": 1024,
+      "height": 1536,
+      "mode": "RGBA",
+      "transparent_percent": 47.38,
+      "alpha_extrema": [
+        0,
+        254
+      ]
+    },
+    {
+      "file": "lamp_on.png",
+      "width": 1024,
+      "height": 1536,
+      "mode": "RGBA",
+      "transparent_percent": 73.09,
+      "alpha_extrema": [
+        0,
+        254
+      ]
+    },
+    {
+      "file": "lamp_off.png",
+      "width": 1024,
+      "height": 1536,
+      "mode": "RGBA",
+      "transparent_percent": 73.06,
+      "alpha_extrema": [
+        0,
+        254
+      ]
+    },
+    {
+      "file": "tea_mug.png",
+      "width": 1312,
+      "height": 1199,
+      "mode": "RGBA",
+      "transparent_percent": 38.42,
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    }
+  ]
+}
